@@ -1,0 +1,47 @@
+body {
+	background: pink;
+}
+div {
+	font-size:40px;
+	border:1px solid red;
+	height:200px;
+}
+ul {
+	li {
+		border:1px solid blue;
+		span {
+			font-size:30px;
+			border:2px solid black;
+		}
+		var {
+			display:block;
+			width:100px;
+			border:1px solid blue;
+			height:100px;
+			background: url(i/btn.png?__sprite) no-repeat 0 0;
+		}
+	}
+}
+.test {
+	width:54px;
+	height:54px;
+	background:url(i/icon_douban.png?__sprite) no-repeat 0 0;
+}
+.tst1 {
+	li {
+		width:54px;
+		height:54px;
+	}
+	.li1 {
+		background: url(i/icon_douban.png?__sprite) no-repeat 0 0;
+	}
+	.li2 {
+		background: url(i/icon_qq.png?__sprite) no-repeat 0 0;
+	}
+	.li3 {
+		background: url(i/icon_renren.png?__sprite) no-repeat 0 0;
+	}
+	.li4 {
+		background: url(i/icon_weibo.png?__sprite) no-repeat 0 0;
+	}
+}

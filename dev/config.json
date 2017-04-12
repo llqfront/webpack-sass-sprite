@@ -1,0 +1,31 @@
+{
+	"host": "172.16.32.2",
+	"user": "web",
+	"password": "",
+	"projectPath": "",
+	"serverDir": "",
+	"previewServerDir": "",
+	"cdn": "",
+	"newcdn": "",
+	"outputCustom": "",
+	"build":{
+		"sass":true,
+		"scss":true,
+		"less":false,
+		"csslint":false,
+		"isEs6":true
+	},
+	"output":{
+		"cssImagesUrlReplace": false,
+		"cssCombo": false,
+		"combineWidgetCss":true,
+		"compressPng":false,
+		"compressCss":true,
+		"cssSprite":true,
+		"compressJs":false,
+		"cssSpriteMargin":5,
+		"imagesSuffix":1,
+		"base64":true
+	},
+	"localServerPort": 8082
+}
