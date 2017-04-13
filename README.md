@@ -17,7 +17,7 @@ $ npm install webpack@1.12.x --save-dev
 
 *如果需要使用 Webpack 开发工具，要单独安装：
 
-$ npm install webpack-dev-server --save-dev
+$ npm install webpack-dev-server -g
 
 
 打包：
