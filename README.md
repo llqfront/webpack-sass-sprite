@@ -27,7 +27,7 @@ webpack-dev-server
 
 如果做pc端需要背景图合并：
 cd dev 
-使用jdf 启服务
+使用jdf 启服务 jdf b -open
 [jdf](https://github.com/putaoshu/jdf)
 
 页面中引入 jdf 中的链接  比如：
