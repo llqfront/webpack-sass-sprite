@@ -32,3 +32,16 @@ cd dev
 
 页面中引入 jdf 中的链接  比如：
 http://localhost:8082/css/index.css
+
+同时把dev/js/entry.js中的css引入注掉
+
+如果不需要jdf 
+样式引入 
+<link rel="stylesheet" href="./bundle/css/index.css">
+同时把dev/js/entry.js中的css引入放开
+
+
+
+
+
+
