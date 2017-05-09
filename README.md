@@ -31,4 +31,4 @@ webpack sass less 编译  如何使用背景图合并 sprite 使用jdf 配合使
 ----
 ####我们使用jdf 只是做了sass 编译 背景图合并 其他的还是webpack 独立完成
 * [jdf](https://github.com/putaoshu/jdf)
-
+* [jdf csssprite](https://github.com/putaoshu/jdf/blob/master/doc/a_tool_csssprite.md)
